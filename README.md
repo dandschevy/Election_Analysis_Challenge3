@@ -27,7 +27,7 @@ The minor Python coding modifications, required for use in multiple elections, w
   1.  With each new election, csv file name and file location would need to be updated in line #9 (file to load variable)
   2.  The resulting text file and folder would need to be updated in line #11 (file to save variable)
     
-With these simple modifications, any elections csv file could be analyzed in seconds, with the results almost immediately available on the terminal screen and in a separate text file.  A link to the Python code can be found here for your review: 
+With these simple modifications, any elections csv file could be analyzed in seconds, with the results almost immediately available on the terminal screen and in a separate text file.  A link to the Python code can be found here for your review: https://github.com/dandschevy/Election_Analysis_Challenge3/blob/main/PyPoll_Challenge.py
 
 
 
