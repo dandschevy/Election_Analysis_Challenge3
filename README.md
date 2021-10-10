@@ -23,10 +23,11 @@ Additionally, an image of the election results can also be found below:
 The election analysis Python code made analyzing the results of the election incredibly quick and efficient; more efficient than analyzing this data using Excel and pivot tables or VBA.  Also, due to the user-centric nature of Python coding, this script can be used for additional elections with very few modifications.  This is not an option when using pivot tables and there are size limitations in Excel when using VBA macros.  
 
 The minor Python coding modifications, required for use in multiple elections, would be as follows:
-    1.  With each new election, csv file name and file location would need to be updated in line #9 (file to load variable)
-    2.  The resulting text file and folder would need to be updated in line #11 (file to save variable)
+
+  1.  With each new election, csv file name and file location would need to be updated in line #9 (file to load variable)
+  2.  The resulting text file and folder would need to be updated in line #11 (file to save variable)
     
-With these simple modifications, any elections csv file could be analyzed in seconds, with the results almost immediately available on the terminal screen and in a separate text file.
+With these simple modifications, any elections csv file could be analyzed in seconds, with the results almost immediately available on the terminal screen and in a separate text file.  A link to the Python code can be found here for your review: 
 
 
 
