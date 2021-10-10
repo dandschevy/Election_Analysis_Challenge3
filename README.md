@@ -17,7 +17,9 @@ The election data was analyzed and the following results were obtained:
   4.  Charles Casper Stockham received 85,213 votes (23.0%), Diana DeGette received 272,892 votes (73.8%), and Raymon Anthony Doane received 11,606 votes (3.1%)
   5.  Based on the results in #4 above, Diana DeGette was the winner of the election with 272,892 votes and 73.8%
 
-A report of the election results have been included in the resources folder using the following link:  Additionally, an image of the election results can also be found below:
+A report of the election results have been included in the resources folder and be accessed using the following link: https://github.com/dandschevy/Election_Analysis_Challenge3/blob/main/Resources/election_results.csv  
+
+Additionally, an image of the election results can also be found below:
 ![PyPoll_Challenge_Terminal](https://user-images.githubusercontent.com/90434559/136714841-3168a242-80d1-4cd7-979a-10203ffe64c7.png)
 
 
